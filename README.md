@@ -52,7 +52,6 @@ iris-analysis/
 │
 ├── requirements.txt
 ├── README.md
-└── venv/
 
 
 ---
